@@ -24,7 +24,7 @@ function App() {
               </svg>
               <span class="pr-6 text-gray-100">Let's go PAPAFAM 2021</span>
             </span>
-            <span class="pl-6 text-indigo-400 group-hover:tet-gray-100 transition duration-200">
+            <span class="pl-6 text-indigo-400 group-hover:text-gray-100 transition duration-200">
               See what's new &rarr;
             </span>
           </button>
